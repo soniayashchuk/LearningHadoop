@@ -1,4 +1,4 @@
-package com.learning.hadoop;
+package com.learning.hadoop.simple;
 
 import java.io.IOException;
 import java.util.*;
